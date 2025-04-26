@@ -3,9 +3,6 @@ A simple and dynamic weather web app built using HTML, CSS, and JavaScript.
 It allows users to search for weather information by city name, toggle between °C and °F, and fetch weather using their current geolocation.
 The app also features dynamic background images based on the weather condition!
 
-📸 Preview
-(Optional: Add a screenshot here later if you want!)
-
 ✨ Features
 🔎 Search by City Name
 
